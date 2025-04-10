@@ -1,0 +1,3 @@
+[submodule "Offline-Trajectory-Provider"]
+	path = Offline-Trajectory-Provider
+	url = git@github.com:maximilian-nitsch/Offline-Trajectory-Provider.git
