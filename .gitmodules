@@ -1,3 +1,24 @@
 [submodule "Offline-Trajectory-Provider"]
 	path = Offline-Trajectory-Provider
 	url = git@github.com:maximilian-nitsch/Offline-Trajectory-Provider.git
+[submodule "IMU-Simulator"]
+	path = IMU-Simulator
+	url = git@github.com:maximilian-nitsch/IMU-Simulator.git
+[submodule "Magnetometer-Simulator"]
+	path = Magnetometer-Simulator
+	url = git@github.com:maximilian-nitsch/Magnetometer-Simulator.git
+[submodule "DVL-Simulator"]
+	path = DVL-Simulator
+	url = git@github.com:maximilian-nitsch/DVL-Simulator.git
+[submodule "Depth-Pressure-Sensor-Simulator"]
+	path = Depth-Pressure-Sensor-Simulator
+	url = git@github.com:maximilian-nitsch/Depth-Pressure-Sensor-Simulator.git
+[submodule "USBL-Simulator"]
+	path = USBL-Simulator
+	url = git@github.com:maximilian-nitsch/USBL-Simulator.git
+[submodule "Navigation-Interfaces"]
+	path = Navigation-Interfaces
+	url = git@github.com:maximilian-nitsch/Navigation-Interfaces.git
+[submodule "Navigation-Utilities"]
+	path = Navigation-Utilities
+	url = git@github.com:maximilian-nitsch/Navigation-Utilities.git
