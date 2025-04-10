@@ -25,3 +25,6 @@
 [submodule "Navigation-Filter"]
 	path = Navigation-Filter
 	url = git@github.com:maximilian-nitsch/Navigation-Filter.git
+[submodule "Sensors-BringUp"]
+	path = Sensors-BringUp
+	url = git@github.com:maximilian-nitsch/Sensors-BringUp.git
