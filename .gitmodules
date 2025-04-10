@@ -22,3 +22,6 @@
 [submodule "Navigation-Utilities"]
 	path = Navigation-Utilities
 	url = git@github.com:maximilian-nitsch/Navigation-Utilities.git
+[submodule "Navigation-Filter"]
+	path = Navigation-Filter
+	url = git@github.com:maximilian-nitsch/Navigation-Filter.git
